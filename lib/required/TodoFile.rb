@@ -14,10 +14,86 @@ class TodoFile
   end
 
   # Actualise le fichier pour le mettre à aujourd'hui
-  def update
+  def update options = {}
+    # On a besoin de parser le fichier courant (même s'il sera
+    # remplacé)
     parse
+    # Dans le cas où le fichier actuel est déjà un fichier pour
+    # aujourd'hui
+    if today_part.children.first.date == Date.today
+      if options[:force]
+        force_update || return
+      else
+        notice "Le fichier est déjà le fichier du jour."
+        return
+      end
+    else
+      # Au cas où ça ne serait pas encore fait, on
+      # produit un backup du fichier courant, qui
+      # sera logiquement un fichier de la veille (mais qui
+      # pourrait être un autre fichier du jour d'aujourd'hui actuel)
+      backup_current_file
+    end
+    # On actualise le code et on l'enregistre
     File.open(path,'wb') { |f| f.write updated_code }
     return self # chainage
+  end
+
+  # On doit forcer l'actualisation, donc en repartant
+  # du fichier de la veille (qui doit impérativement
+  # exister)
+  def force_update
+    # ATTENTION : toutes les tâches du jour seront perdues
+    question = "Attention, si je force l'actualisation, toutes les\ntâches ajoutées à aujourd'hui seront perdues.\n\nDois-je procéder quand même ?"
+    unless yesNo(question)
+      return
+    end
+    if get_backup_veille
+      # OK
+      puts "Le fichier de la veille a été remis en fichier courant\npour forcer l'actualisation."
+      reset
+      # Il faut le reparser
+      parse
+      return true
+    else
+      error "Impossible de trouver un fichier de la veille."
+      error "Je dois renoncer à forcer l'actualisation."
+      return false
+    end
+  end
+
+  def backup_current_file
+    day = today_part.children.first.date
+    puts "Day = #{day}"
+  end
+
+  # Pour faire un backup du jour précédent (sauf s'il existe déjà)
+  def backup
+    if File.exists?(veille_path_file)
+      notice "Le fichier backup existe déjà, je ne le refais pas."
+    else
+      FileUtils.copy(path, veille_path_file)
+    end
+  end
+
+  # Pour remettre en fichier des tâches le fichier de la veille
+  def get_backup_veille
+    if File.exists?(veille_path_file)
+      File.unlink(path) if File.exists?(path)
+      FileUtils.copy(veille_path_file, path)
+      puts "Le fichier de la veille a été remis"
+      return true
+    else
+      error "Aucun fichier de la veille n'existe."
+      return false
+    end
+  end
+
+  def veille_path_file
+    @veille_path_file ||= begin
+      prev_day = Date.today - 1
+      path_backup = File.join(App.folder_backups, prev_day.strftime("%Y-%m-%d\.md"))
+    end
   end
 
   def updated_code
@@ -49,13 +125,20 @@ class TodoFile
   end
 
   def open
-    `open -a Typora "#{path}"`
+    `open -a "#{CONFIG[:default_editor]}" "#{path}"`
   end
 
   def full_code
     fcode = []
     children.each {|child| fcode << child.full_code}
     fcode.join("\n")
+  end
+
+  def reset
+    # puts "-> reset"
+    [:children, :init_code, :lines, :today_part, :future_part, :acheved_part].each do |prop|
+      instance_variable_set("@#{prop}", nil)
+    end
   end
 
   def children
@@ -118,6 +201,6 @@ class TodoFile
   end
 
   def path
-    @path ||= TODO_FILE_PATH # cf. constants.rb
+    @path ||= CONFIG[:todo_file_path]
   end
 end #/TodoFile

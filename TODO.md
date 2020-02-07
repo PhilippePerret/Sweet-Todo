@@ -1,4 +1,16 @@
-* S'assurer que le jour suivant est bien le jour qu'on attend (quand on prend le premier enfant dans 'future' pour le mettre dans 'today_part')
-* Quand on assure la quinzaine, voir s'il n'y a pas déjà des jours de la date cherchée
-  => faire une liste (table) par date dans future_part
-  S'en servir aussi pour la tâche d'avant
+* Mettre en place le CRON JOB
+
+* Pouvoir programmer des tâches récurrentes
+  Par exemple, le samedi, il y a toujours à publier le tutoriel Scrivener
+
+* Ne garder que quelques mois dans les achevés
+
+* Réfléchir à comment "communiquer" avec Sweet-Todo. Pour le moment,
+  elle travaille "en silence" avec le CRON. Il faudrait pouvoir lui demander
+  des archives, de pouvoir ajouter des tâches récurrentes, etc.
+
+* Pour implémenter le programme, faire une copie du fichier actuel, peut-être
+  le passer à la veille (car il sera réglé du jour et c'est moins intéressant)
+  et la remettre systématiquement avant de jouer run
+
+* La commande run doit pouvoir jouer des choses différentes. Grâce aux arguments.

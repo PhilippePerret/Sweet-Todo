@@ -16,9 +16,7 @@ class PartLine < Line
   # (sert seulement pour :future (future_part))
   def ensure_quinzaine
     # On commence toujours par classer les enfants par date
-    puts_children
     @children = children.sort_by { |child| child.yyyymmdd }
-    puts_children
     upto_day = Date.today + 15
     last_day  = Date.today - 1
     # La nouvelle liste pour cette partie
