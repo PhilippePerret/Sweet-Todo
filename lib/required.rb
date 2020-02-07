@@ -4,7 +4,6 @@ require 'fileutils'
 
 APPFOLDER = File.expand_path(File.dirname(File.dirname(__FILE__)))
 APP_FOLDER = APPFOLDER
-puts "APPFOLDER = #{APPFOLDER}"
 
 # Configuration
 require_relative 'required/system/Configuration.rb'

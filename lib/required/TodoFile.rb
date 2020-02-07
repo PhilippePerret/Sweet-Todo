@@ -15,6 +15,7 @@ class TodoFile
 
   # Actualise le fichier pour le mettre à aujourd'hui
   def update
+    puts "-> update"
     # On a besoin de parser le fichier courant (même s'il sera
     # remplacé)
     parse
@@ -26,6 +27,7 @@ class TodoFile
         force_update || return
       else
         notice "Le fichier est déjà le fichier du jour." if App.verbose
+        puts "<- update"
         return
       end
     else
@@ -37,7 +39,8 @@ class TodoFile
     end
     # On actualise le code et on l'enregistre
     File.open(path,'wb') { |f| f.write updated_code }
-    return self # chainage
+
+    puts "<- update"
   end
 
   # On doit forcer l'actualisation, donc en repartant
@@ -127,7 +130,11 @@ class TodoFile
   end
 
   def open
-    `open -a "#{CONFIG[:default_editor]}" "#{path}"`
+    puts "-> open"
+    cmd = "open -a \"#{CONFIG[:default_editor]}\" \"#{path}\""
+    puts "Commande jouée : #{cmd}" if App.verbose
+    `#{cmd}`
+    puts "<- open"
   end
 
   def full_code

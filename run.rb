@@ -10,33 +10,38 @@ require_relative './lib/required'
 CLI.parse
 COMMAND = CLI.args[0]
 
+puts "\n\n\n---- [#{Time.now}]"
+puts "Ruby version: #{RUBY_VERSION}"
+puts "App.verbose: #{App.verbose}"
+puts "COMMAND = #{COMMAND}" if App.verbose
 
 todofile = TodoFile.new
 
-case COMMAND
-when 'update'
-  # puts "CODE INITIAL:\n\n#{todofile.init_code}\n\n"
-  todofile.update
-  todofile.open
-  # puts "\n\n\nCODE FINAL :\n\n#{todofile.full_code}"
-when 'force-update'
-  CLI.options.merge!(force: true)
-  todofile.update
-  todofile.open
-when 'open'
-  todofile.open
-when 'test'
-  puts "Je dois tester l'application"
-when 'help'
-  require_module('help')
-when 'exemple'
-  require_module('exemple')
-else
-  if COMMAND
-    puts "Il faut donner en premier argument la commande de l'application (ou 'help' pour obenir de l'aide)."
+begin
+  case COMMAND
+  when 'update'
+    todofile.update
+    todofile.open
+  when 'force-update'
+    CLI.options.merge!(force: true)
+    todofile.update
+    todofile.open
+  when 'open'
+    todofile.open
+  when 'test'
+    puts "Je dois tester l'application"
+  when 'help'
+    require_module('help')
+  when 'exemple'
+    require_module('exemple')
   else
-    puts "Il faut entrer la commande à exécuter (update, test, help, etc.)"
+    if COMMAND
+      puts "Il faut donner en premier argument la commande de l'application (ou 'help' pour obenir de l'aide)."
+    else
+      puts "Il faut entrer la commande à exécuter (update, test, help, etc.)"
+    end
   end
+rescue Exception => e
+  puts "### UNE ERREUR EST SURVENUE : #{e.message}"
+  puts e.backtrace#.join(CR)
 end
-
-puts "Options : #{CLI.options.inspect}"
