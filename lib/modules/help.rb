@@ -34,6 +34,20 @@ Ou sans commande :
 
   #{'> /path/to/Sweet-Todo/run.rb open'.jaune}
 
+Programmation de l'actualisation
+--------------------------------
+
+L'actualisation et l'ouverture du fichier des tâches peut être
+programmer avec le cron-job. Utiliser cette ligne :
+
+  0 [6-12] * * * ruby /path/to/Sweet-Todo/run.rb update > /path/to/sweet-todo.log
+
+Cette ligne lancera l'actualisation toutes les heures de 6
+heures du matin à midi. Noter que si le fichier du jour a
+déjà été préparé, rien ne sera fait. Si un fichier log n'est
+pas choisi, on peut ajouter l'option `-q` pour qu'aucun
+message ne soit émis.
+
 Actualisation du fichier
 ------------------------
 

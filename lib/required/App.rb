@@ -15,6 +15,13 @@ class << self
     end
   end
 
+  def verbose
+    if @verbose === nil
+      @verbose = !CLI.options[:quiet]
+    end
+    @verbose
+  end
+
   # Path au fichier exemple
   def path_exemple
     @path_exemple ||= File.join(folder_assets, '__SWTODO__.md')
@@ -24,7 +31,7 @@ class << self
   def folder_backups
     @folder_backups ||= File.join(APPFOLDER,'xBackups')
   end
-  
+
   # Dossier assets
   def folder_assets
     @folder_assets ||= File.join(APPFOLDER,'lib','assets')

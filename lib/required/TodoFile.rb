@@ -14,17 +14,18 @@ class TodoFile
   end
 
   # Actualise le fichier pour le mettre à aujourd'hui
-  def update options = {}
+  def update
     # On a besoin de parser le fichier courant (même s'il sera
     # remplacé)
     parse
+
     # Dans le cas où le fichier actuel est déjà un fichier pour
     # aujourd'hui
     if today_part.children.first.date == Date.today
-      if options[:force]
+      if CLI.options[:force]
         force_update || return
       else
-        notice "Le fichier est déjà le fichier du jour."
+        notice "Le fichier est déjà le fichier du jour." if App.verbose
         return
       end
     else
@@ -50,7 +51,9 @@ class TodoFile
     end
     if get_backup_veille
       # OK
-      puts "Le fichier de la veille a été remis en fichier courant\npour forcer l'actualisation."
+       if App.verbose
+         puts "Le fichier de la veille a été remis en fichier courant\npour forcer l'actualisation."
+       end
       reset
       # Il faut le reparser
       parse
@@ -64,13 +67,12 @@ class TodoFile
 
   def backup_current_file
     day = today_part.children.first.date
-    puts "Day = #{day}"
   end
 
   # Pour faire un backup du jour précédent (sauf s'il existe déjà)
   def backup
     if File.exists?(veille_path_file)
-      notice "Le fichier backup existe déjà, je ne le refais pas."
+      notice "Le fichier backup existe déjà, je ne le refais pas." if App.verbose
     else
       FileUtils.copy(path, veille_path_file)
     end
@@ -81,7 +83,7 @@ class TodoFile
     if File.exists?(veille_path_file)
       File.unlink(path) if File.exists?(path)
       FileUtils.copy(veille_path_file, path)
-      puts "Le fichier de la veille a été remis"
+      notice "Le fichier de la veille a été remis" if App.verbose
       return true
     else
       error "Aucun fichier de la veille n'existe."

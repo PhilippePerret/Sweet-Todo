@@ -7,7 +7,9 @@
 require_relative './lib/required'
 
 # La commande à jouer. Par défaut, c'est l'actualisation du fichier
-COMMAND = ARGV[0]
+CLI.parse
+COMMAND = CLI.args[0]
+
 
 todofile = TodoFile.new
 
@@ -18,7 +20,8 @@ when 'update'
   todofile.open
   # puts "\n\n\nCODE FINAL :\n\n#{todofile.full_code}"
 when 'force-update'
-  todofile.update(force: true)
+  CLI.options.merge!(force: true)
+  todofile.update
   todofile.open
 when 'open'
   todofile.open
@@ -36,10 +39,4 @@ else
   end
 end
 
-# todofile.open
-
-# puts "todofile.today_part = #{todofile.today_part.children.first}"
-
-# todofile.today_part.children.first.undone_tasks.each do |task|
-#   puts "TASK: #{task} #{task.str}"
-# end
+puts "Options : #{CLI.options.inspect}"
