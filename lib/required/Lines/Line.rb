@@ -7,7 +7,7 @@
 
 =end
 class Line
-  
+
   class << self
     def new_id
       @last_id ||= 0
@@ -21,16 +21,35 @@ class Line
 
 
   def initialize str, params
-    @str = str
+    @str = str.strip
+    @children ||= []
     params.each do |k, v|
       instance_variable_set("@#{k}", v)
     end
+    @id = self.class.new_id
+  end
+
+  # Retourne le code complet pour cette "line"
+  # Par exemple la partie avec tous ses enfants
+  def full_code
+    fcode = []
+    fcode << final_str
+    children.each { |child| fcode << child.full_code }
+    fcode.join('')
+  end
+
+  # Sera souvent surclassé
+  def final_str
+    @final_str ||= "#{str}#{RC}"
   end
 
   def add_child child
-    @children ||= []
     @children << child
     child.parent = self
+  end
+
+  def add_children children_list
+    children_list.each { |child| add_child child }
   end
 
   def delete_child child
