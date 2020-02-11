@@ -7,6 +7,8 @@ config.default_editor = 'Typora'
 
 # Emplacement du fichier de la liste des tâches
 # ------------------------
-config.todo_file_path = File.join(Dir.home, 'Desktop','__SWTODO__.md')
+# config.todo_file_path = File.join(Dir.home, 'Desktop','__SWTODO__.md')
+config.todo_file_path = File.join(APPFOLDER,'__SWTODO__.md')
+
 
 end
