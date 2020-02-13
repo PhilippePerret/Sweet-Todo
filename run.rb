@@ -20,8 +20,10 @@ todofile = TodoFile.new
 begin
   case COMMAND
   when 'update'
-    todofile.update
-    todofile.open
+    if todofile.update
+      # On n'ouvre le fichier que s'il a été actualisé
+      todofile.open
+    end
   when 'force-update'
     CLI.options.merge!(force: true)
     todofile.update

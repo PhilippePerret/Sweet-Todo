@@ -24,11 +24,11 @@ class TodoFile
     # aujourd'hui
     if today_part.children.first.date == Date.today
       if CLI.options[:force]
-        force_update || return
+        return false unless force_update
       else
         notice "Le fichier est déjà le fichier du jour." if App.verbose
         puts "<- update"
-        return
+        return false
       end
     else
       # Au cas où ça ne serait pas encore fait, on
@@ -41,6 +41,7 @@ class TodoFile
     File.open(path,'wb') { |f| f.write updated_code }
 
     puts "<- update"
+    return true
   end
 
   # On doit forcer l'actualisation, donc en repartant

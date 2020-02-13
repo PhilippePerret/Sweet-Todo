@@ -307,3 +307,209 @@ COMMAND = update
 -> open
 Commande jouée : open -a "Typora" "/Users/philippeperret/Desktop/__SWTODO__.md"
 <- open
+
+
+
+---- [2020-02-11 05:00:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-02-11 06:00:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-02-11 07:00:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-02-11 08:00:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-02-11 09:00:01 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-02-11 10:00:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-02-11 11:00:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-02-11 12:00:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-02-12 05:00:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-02-12 06:00:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-02-12 07:00:01 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-02-12 08:00:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-02-12 09:00:01 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-02-12 10:00:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-02-12 11:00:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-02-12 12:00:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
