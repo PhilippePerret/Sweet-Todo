@@ -191,6 +191,7 @@ class TodoFile
         current_date.add_child(line)
       else
         # Une ligne "normale"
+        next if current_cbox.nil?
         line = NormalLine.new(str)
         current_cbox.add_child(line)
       end
