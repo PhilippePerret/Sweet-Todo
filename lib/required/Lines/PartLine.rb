@@ -36,7 +36,7 @@ class PartLine < Line
   end
 
   def formate_line_for adate
-    @datelineformat ||= "\#\#\# _JOURH_ %-d _MOIS_ %Y"
+    @datelineformat ||= "\#\#\# _JOURH_ %-d _MOIS_ %Y".freeze
     adate.strftime(@datelineformat).sub(/_MOIS_/, MONTHNAMES[adate.month]).sub(/_JOURH_/, DAYNAMES[adate.wday])
   end
 

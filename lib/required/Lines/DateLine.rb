@@ -11,6 +11,7 @@ MONTHNAMES = [
   'février',
   'mars',
   'avril',
+  'mai',
   'juin',
   'juillet',
   'aout',

@@ -1,2 +1,3 @@
 #!/bin/sh
-ruby /Users/philippeperret/Programmation/Sweet-Todo/bin/sweet-todo update
+ruby /Users/philippeperret/Programmation/Sweet-Todo/run.rb update
+# ruby /Users/philippeperret/Programmation/Sweet-Todo/bin/sweet-todo update

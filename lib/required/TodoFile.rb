@@ -20,6 +20,9 @@ class TodoFile
     # remplacé)
     parse
 
+    # On fait un backup, sauf si le fichier est vide
+    backup
+
     # Dans le cas où le fichier actuel est déjà un fichier pour
     # aujourd'hui
     if today_part.children.first.date == Date.today
@@ -49,7 +52,7 @@ class TodoFile
   # exister)
   def force_update
     # ATTENTION : toutes les tâches du jour seront perdues
-    question = "Attention, si je force l'actualisation, toutes les\ntâches ajoutées à aujourd'hui seront perdues.\n\nDois-je procéder quand même ?"
+    question = "Attention, si je force l'actualisation, toutes les\ntâches ajoutées aujourd'hui seront perdues.\n\nDois-je procéder quand même ?"
     unless yesNo(question)
       return
     end
@@ -77,8 +80,10 @@ class TodoFile
   def backup
     if File.exists?(veille_path_file)
       notice "Le fichier backup existe déjà, je ne le refais pas." if App.verbose
-    else
+    elsif File.read(path).force_encoding('utf-8').length > 0
       FileUtils.copy(path, veille_path_file)
+    else
+      error "Le fichier est vide, je n'en fait pas de backup."
     end
   end
 
@@ -165,6 +170,11 @@ class TodoFile
     current_date = nil
     current_cbox = nil
 
+    if (init_code.strip.empty?)
+      error "Le fichier de référence est vide… Un problème a dû survenir. Je reconstitue un fichier type."
+      reset_a_new_file
+    end
+
     init_code.each_line do |str|
       next if str.strip == '' # on passe les lignes vides
       line = nil
@@ -199,6 +209,38 @@ class TodoFile
       @lines << line
     end
     # puts "@lines = #{@lines.inspect}"
+  end
+
+  # En cas de problème, on peut reconstituer un fichier du jour
+  # Pour que ça fonctionne, il faut vider entièrement le fichier
+  # __SWTODO__.md
+  def reset_a_new_file
+    idata   = PartLine.new("date quelconque", :today)
+    hier    = Time.now - 3600 * 24
+    today   = idata.formate_line_for(Time.now)
+    hier    = idata.formate_line_for(hier)
+    avant_hier  = idata.formate_line_for(Time.now - (3600 * 24 * 2) )
+    @init_code = <<-MARKDOWN
+# LISTE TODO
+
+## Aujourd'hui {#today}
+
+#{hier}
+
+- [x] Une tâche achevé hier.
+- [ ] Une tâche non achevée de la veille.
+
+## À venir {#future}
+
+#{today}
+
+## Achevé {#acheved}
+
+#{avant_hier}
+
+- [x] Une tâche exécutée
+
+    MARKDOWN
   end
 
   def balise_start_today
