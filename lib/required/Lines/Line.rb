@@ -18,9 +18,20 @@ class Line
   attr_reader :id, :str, :type
   attr_accessor :parent
   attr_reader :children
+  # Indentation de ligne (nombre d'espaces)
+  # Cette propriété a été rajouté pour les checkbox, pour tenir compte
+  # des imbrications. Noter qu'elle ne sert (en tout cas pour le moment) que
+  # pour les CbLine (mais qu'elle est calculée pour toutes les lignes)
+  attr_reader :leading
 
 
   def initialize str, params
+    @leading = if str.match?(/^ /)
+                  str.match(/^ +/).to_a[0].length
+                else
+                  ''
+                end
+    # On épure toujours le string
     @str = str.strip
     @children ||= []
     params.each do |k, v|
@@ -38,6 +49,7 @@ class Line
     fcode.join('')
   end
 
+  # Ligne finale écrite dans le fichier
   # Sera souvent surclassé
   def final_str
     @final_str ||= "#{str}#{RC}"

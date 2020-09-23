@@ -1,17 +1,9095 @@
 
 
 
----- [2020-05-16 11:30:00 +0200]
+---- [2020-05-22 12:30:00 +0200]
 Ruby version: 2.6.3
 App.verbose: true
 COMMAND = update
 -> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
 [0;92mLe fichier est déjà le fichier du jour.[0m
 <- update
 
 
 
----- [2020-05-16 12:30:00 +0200]
+---- [2020-05-23 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-23 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-23 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-23 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-23 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-23 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-23 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-24 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-24 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-24 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-24 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-24 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-24 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-24 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-24 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-25 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-25 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-25 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-25 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-25 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-25 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-25 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-26 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-26 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-26 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-26 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-26 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-26 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-26 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-26 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-27 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-27 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-27 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-27 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-27 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-27 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-27 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-27 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-28 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-28 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-28 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-28 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-28 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-28 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-28 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-28 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-29 04:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-29 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-29 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-29 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-29 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-29 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-29 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-29 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-29 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-30 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-30 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-30 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-30 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-30 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-30 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-30 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-30 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-31 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-31 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-31 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-31 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-31 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-31 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-05-31 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-01 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-01 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-01 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-01 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-01 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-01 11:30:04 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-01 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-02 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-02 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-02 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-02 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-02 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-02 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-02 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-02 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-03 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-03 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-03 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-03 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-03 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-03 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-03 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-03 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-04 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-04 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-04 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-04 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-04 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-04 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-04 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-04 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-05 04:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-05 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-05 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-05 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-05 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-05 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-05 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-05 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-05 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-06 04:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-06 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-06 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-06 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-06 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-06 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-06 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-06 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-06 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-07 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-07 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-07 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-07 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-07 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-07 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-07 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-08 05:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-08 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-08 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-08 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-08 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-08 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-08 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-08 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-09 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-09 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-09 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-09 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-09 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-09 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-09 11:30:03 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-09 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-10 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-10 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-10 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-10 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-10 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-10 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-10 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-11 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-11 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-11 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-11 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-11 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-11 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-11 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-11 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-12 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-12 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-12 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-12 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-12 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-12 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-12 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-12 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-13 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-13 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-13 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-13 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-13 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-13 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-13 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-14 05:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-14 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-14 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-14 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-14 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-14 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-14 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-14 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-15 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-15 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-15 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-15 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-15 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-15 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-15 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-16 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-16 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-16 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-16 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-16 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-16 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-16 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-16 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-17 05:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-17 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-17 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-17 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-17 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-17 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-17 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-17 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-18 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-18 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-18 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-18 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-18 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-18 11:30:02 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-18 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-19 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-19 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-19 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-19 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-19 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-19 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-19 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-20 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-20 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-20 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-20 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-20 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-20 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-21 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-21 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-21 08:30:06 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-21 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-21 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-21 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-21 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-22 04:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-22 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-22 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-22 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-22 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-22 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-22 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-22 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-22 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-23 05:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-23 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-23 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-23 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-23 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-23 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-23 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-23 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-24 04:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-06-24 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-24 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-24 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-24 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-24 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-24 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-24 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-24 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-25 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-25 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-25 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-25 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-25 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-25 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-25 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-25 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-26 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-26 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-26 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-26 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-26 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-26 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-26 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-27 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-27 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-27 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-27 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-27 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-27 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-27 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-28 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-28 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-28 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-29 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-29 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-29 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-29 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-29 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-29 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-29 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-30 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-30 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-30 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-30 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-30 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-30 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-06-30 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-01 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-01 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-01 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-01 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-01 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-01 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-01 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-02 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-02 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-02 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-02 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-02 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-02 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-02 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-03 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-03 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-03 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-03 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-03 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-03 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-03 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-04 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-04 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-04 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-04 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-04 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-04 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-05 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-05 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-05 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-05 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-05 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-05 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-05 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-05 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-06 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-06 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-06 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-06 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-06 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-06 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-06 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-07 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-07 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-07 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-07 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-07 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-07 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-07 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-08 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-08 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-08 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-08 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-08 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-08 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-08 12:30:02 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-09 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-09 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-09 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-09 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-09 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-09 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-09 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-10 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-10 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-10 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-10 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-10 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-10 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-10 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-11 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-14 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-14 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-14 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-14 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-14 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-14 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-15 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-15 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-15 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-15 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-16 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-16 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-16 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-16 11:30:03 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-16 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-17 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-17 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-17 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-17 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-17 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-17 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-18 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-18 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-18 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-18 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-18 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-18 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-19 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-19 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-19 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-19 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-19 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-20 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-20 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-20 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-20 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-20 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-20 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-20 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-21 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-21 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-21 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-21 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-21 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-21 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-22 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-22 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-22 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-22 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-22 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-22 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-22 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-23 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-23 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-23 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-23 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-23 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-23 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-23 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-24 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-24 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-24 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-24 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-24 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-24 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-24 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-25 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-25 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-25 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-25 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-25 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-25 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-25 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-26 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-26 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-26 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-26 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-26 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-26 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-27 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-27 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-27 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-27 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-27 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-27 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-28 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-28 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-28 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-28 10:30:03 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-28 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-28 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-29 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-29 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-29 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-29 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-29 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-29 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-29 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-30 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-30 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-30 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-30 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-31 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-31 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-31 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-31 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-31 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-07-31 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-01 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-08-01 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-01 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-01 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-01 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-01 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-01 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-02 06:30:07 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-08-02 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-02 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-02 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-02 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-02 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-02 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-03 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-03 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-03 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-03 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-03 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-03 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-04 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-04 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-04 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-04 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-04 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-04 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-04 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-05 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-05 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-05 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-05 09:30:02 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-05 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-05 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-05 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-06 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-06 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-06 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-06 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-06 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-06 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-06 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-07 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-07 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-07 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-07 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-07 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-07 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-07 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-08 05:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-08-08 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-08 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-08 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-08 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-08 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-08 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-08 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-09 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-09 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-09 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-09 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-09 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-09 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-10 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-10 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-10 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-10 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-10 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-10 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-11 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-11 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-11 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-11 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-11 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-11 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-11 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-12 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-12 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-12 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-12 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-12 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-12 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-12 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-13 06:30:02 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-13 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-13 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-13 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-13 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-13 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-13 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-14 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-14 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-14 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-14 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-14 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-14 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-14 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-15 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-15 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-15 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-15 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-15 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-15 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-15 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-15 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-16 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-16 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-16 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-16 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-16 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-16 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-17 04:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-08-17 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-17 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-17 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-17 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-17 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-17 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-17 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-17 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-18 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-18 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-18 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-18 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-18 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-18 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-18 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-19 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-19 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-19 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-19 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-19 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-19 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-19 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-20 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-08-20 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-20 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-20 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-20 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-20 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-20 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-21 04:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-21 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-21 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-21 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-21 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-21 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-21 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-21 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-21 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-22 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-22 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-22 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-22 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-22 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-22 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-23 04:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-08-23 05:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-23 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-23 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-23 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-23 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-23 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-23 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-23 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-24 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-24 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-24 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-24 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-24 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-24 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-25 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-25 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-25 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-25 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-25 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-25 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-26 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-26 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-26 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-26 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-26 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-26 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-26 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-27 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-27 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-27 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-27 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-27 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-27 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-27 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-28 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-08-28 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-28 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-28 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-28 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-29 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-29 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-29 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-29 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-29 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-29 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-29 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-30 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-30 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-30 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-30 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-30 11:30:05 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-30 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-31 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-31 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-31 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-31 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-31 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-08-31 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-01 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-09-01 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-01 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-01 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-01 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-01 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-01 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-02 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-09-02 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-02 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-02 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-02 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-02 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-02 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-03 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-03 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-03 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-03 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-03 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-03 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-03 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-04 05:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-04 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-04 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-04 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-04 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-04 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-04 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-04 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-05 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-05 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-05 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-05 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-05 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-05 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-05 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-06 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-06 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-06 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-06 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-06 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-06 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-07 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-07 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-07 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-07 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-07 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-07 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-07 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-08 06:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-08 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-08 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-08 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-08 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-08 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-08 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-09 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-09-09 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-09 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-09 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-09 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-10 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-10 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-10 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-10 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-10 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-10 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-11 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-09-11 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-11 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-11 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-11 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-12 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-12 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-12 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-12 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-12 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-13 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-13 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-13 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-13 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-13 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-14 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-14 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-14 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-14 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-14 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-14 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-15 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+<- update
+-> open
+Commande jouée : open -a "Typora" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2020-09-15 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-15 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-15 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-15 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-15 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-16 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-16 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-16 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-16 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-16 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-16 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-16 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-17 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-17 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-17 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-17 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-17 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-17 11:30:21 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-17 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-18 08:30:02 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-18 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-18 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-18 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-18 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-19 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-19 07:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-19 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-19 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-19 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-19 11:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-19 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-20 06:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-20 07:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-20 08:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-20 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-20 10:30:03 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-20 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-20 12:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-21 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-21 09:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-21 10:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-21 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-21 12:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-22 08:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-22 09:30:00 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-22 10:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-22 11:30:01 +0200]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier backup existe déjà, je ne le refais pas.[0m
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2020-09-22 12:30:00 +0200]
 Ruby version: 2.6.3
 App.verbose: true
 COMMAND = update

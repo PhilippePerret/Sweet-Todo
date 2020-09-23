@@ -1,4 +1,4 @@
-#!/usr/bin/env ruby
+#!/usr/bin/env ruby -Ku
 # encoding: UTF-8
 =begin
   Fichier principal appelé par le cron-job pour actualiser
@@ -13,17 +13,18 @@ COMMAND = CLI.args[0]
 puts "\n\n\n---- [#{Time.now}]"
 puts "Ruby version: #{RUBY_VERSION}"
 puts "App.verbose: #{App.verbose}"
-puts "COMMAND = #{COMMAND}" if App.verbose
+puts "COMMAND = #{COMMAND}"# if App.verbose
 
 todofile = TodoFile.new
 
 begin
   case COMMAND
   when 'update'
-    if todofile.update
-      # On n'ouvre le fichier que s'il a été actualisé
+    if todofile.update # On n'ouvre le fichier que s'il a été actualisé
       todofile.open
     end
+  when 'data'
+    todofile.get_data # pour HOME
   when 'force-update'
     CLI.options.merge!(force: true)
     todofile.update
@@ -38,7 +39,7 @@ begin
     require_module('exemple')
   else
     if COMMAND
-      puts "Il faut donner en premier argument la commande de l'application (ou 'help' pour obenir de l'aide)."
+      puts "Il faut donner en premier argument la commande de l'application (ou 'help' pour obtenir de l'aide)."
     else
       puts "Il faut entrer la commande à exécuter (update, test, help, etc.)"
     end

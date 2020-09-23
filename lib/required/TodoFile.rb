@@ -47,6 +47,27 @@ class TodoFile
     return true
   end
 
+  # Écrit en console les données à retourner, par exemple pour HOME
+  # Les données sont les données courantes
+  def get_data
+    started = false
+    lines = []
+    init_code.each_line do |str|
+      next if str.strip == '' # on passe les lignes vides
+      if str.match?(/\{#today\}/)
+        started = true
+      elsif !started
+        next
+      end
+      break if str.match?(/\{#future\}/)
+      if str.strip.start_with?('- [')
+        lines << str[2..-1].strip
+      end
+      # lines << str
+    end
+    puts "[[DATA::#{Marshal.dump(lines)}]]"
+  end
+
   # On doit forcer l'actualisation, donc en repartant
   # du fichier de la veille (qui doit impérativement
   # exister)
