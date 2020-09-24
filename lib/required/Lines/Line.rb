@@ -27,7 +27,7 @@ class Line
 
   def initialize str, params
     @leading = if str.match?(/^ /)
-                  str.match(/^ +/).to_a[0].length
+                  str.match(/^ +/).to_a[0]
                 else
                   ''
                 end
