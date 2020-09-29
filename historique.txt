@@ -1,0 +1,76 @@
+01 09 2020 --- Supprimer l’adresse phil@bienfaiteurs.net (en fait c’est impossible, comme c’est l’adresse d’identification du compte Google)
+01 09 2020 --- Renvoyer PSS à Robert Laffont par mail (en précisant qu’il a déjà été envoyé par papier)
+01 09 2020 --- Trouver d’autres maisons de SFFF pour envoyer Le Parc
+03 09 2020 --- [Icare] Faire un mail aux inscrits de l’atelier Icare pour informer sur nouvelle version
+03 09 2020 --- [Icare/AlwaysData] Demander à Éloïse comment mettre en place le protocole sécurisé pour le site (https)
+03 09 2020 --- [Icare] Lire et commenter le document de Khajag (finaliser)
+04 09 2020 --- [Victor d’Aboville] Poursuivre la lecture commentée du roman de Paco
+04 09 2020 --- [Icare] Poursuivre le nouvel atelier (se concentrer sur l’aspect pour pouvoir le )
+05 09 2020 --- [Icare] Poursuivre le responsive design du nouveau site.
+05 09 2020 --- [Icare] Développer le checker de pages (PageChecker)
+05 09 2020 --- Répondre à Korinne
+05 09 2020 --- [Facebook] Annoncer le retour de Korinne en mettant un extrait.
+05 09 2020 --- Faire un nouvel emploi du temps pour la nouvelle année comprenant : la lecture de romans, un blog où je parle de mes lectures et de ce que j’en tire (analyse et commentaires). L’étude peut-être de la littérature.
+07 09 2020 --- [Icare] Commencer à réfléchir au concours de synopsis
+08 09 2020 --- [Icare] Poursuivre PageChecker
+08 09 2020 --- Répondre à Sophie (la femme à barbe)
+08 09 2020 --- [Victor d’Aboville] Poursuivre la lecture commentée du roman de Paco
+08 09 2020 --- [Site perso] Ajouter le film avec Varante
+08 09 2020 --- Acheter Cloaca Maxima pour Paco
+09 09 2020 --- [Victor d’Aboville] Poursuivre la lecture commentée du roman de Paco
+09 09 2020 --- [Icare] Poursuivre la réflexion sur le concours organisé par l'atelier
+09 09 2020 --- [Icare] Poursuivre la vérification de l’affichage du site sur tous les supports.
+09 09 2020 --- Commencer à travailler sur le concours sur une architecture
+10 09 2020 --- [Icare] Traiter la nouvelle inscription
+10 09 2020 --- [Victor d’Aboville] Poursuivre la lecture commentée du roman de Paco
+10 09 2020 --- [Icare] Poursuivre la vérification de l’affichage du site sur tous les supports.
+11 09 2020 --- [Icare] Lecture commentée du dossier de Cyrille
+11 09 2020 --- [Icare] Travail sur nouveau site
+13 09 2020 --- [Icare] Lecture commentée du dossier de Cyrille
+14 09 2020 --- [Victor d’Aboville] Poursuivre la lecture commentée du roman de Paco
+14 09 2020 --- [Icare] Poursuivre le nouveau site (mailing)
+14 09 2020 --- [Icare] Finaliser le dossier de Cyrille et lui envoyer (enregistrer les trois documents et envoyer leurs commentaires)
+14 09 2020 --- [SRPS] Lancer la publicité Facebook (booste) et prévenir Hélène que c’est lancé.
+15 09 2020 --- [Victor d’Aboville] Poursuivre la lecture commentée du roman de Paco
+15 09 2020 --- [Icare] Poursuivre nouveau site (seed pour les tests et test de mailing)
+16 09 2020 --- [Victor d’Aboville] Poursuivre la lecture commentée du roman de Paco
+16 09 2020 --- [Icare] Poursuivre nouveau site
+16 09 2020 --- Ré-étudier complètement le script qui récupère les données et les transforme
+18 09 2020 --- Remplacer tous les `int(10)` dans les fichiers .sql des gels par des VARCHAR(10)
+18 09 2020 --- Corriger tous les `Time.at`
+19 09 2020 --- [Icare] DÉPLOIEMENT DU NOUVEAU SITE
+19 09 2020 --- Vérifier les actualités de l'accueil
+19 09 2020 --- Vérifier les watchers administrateur
+19 09 2020 --- Vérifier les watchers des icariens actifs
+20 09 2020 --- [Icare] DÉPLOIEMENT DU NOUVEAU SITE
+20 09 2020 --- Annoncer la nouvelle version
+20 09 2020 --- Voir l’erreur quand on fait changer d’étape
+20 09 2020 --- [Icare] MISE EN PLACE DU NOUVEAU SITE
+20 09 2020 --- Utiliser `as_i` pour toutes les valeurs utilisant Time.at (à commencer par `created_at` et `updated_at`)
+21 09 2020 --- [Victor d’Aboville] Poursuivre la lecture commentée du roman de Paco
+21 09 2020 --- [Terminal] Supprimer la transparence de la fenêtre
+21 09 2020 --- [Icare] DÉPLOIEMENT DU NOUVEAU SITE (si pas fini)
+21 09 2020 --- [Icare] Supprimer les adresses erronées
+21 09 2020 --- [Icare] Régler le Cron
+21 09 2020 --- [Icare] Corriger l’erreur que j’ai sur Admin::Toolbox
+22 09 2020 --- [Icare]   Poursuivre l'atelier
+22 09 2020 --- [Icare] Page d’aide pour les outils (où les trouver = plan, bureau icarien)
+22 09 2020 --- [Icare] Ajouter le grand livre des lois aux outils d'écriture
+22 09 2020 --- [Icare] Ajouter le quai des docs aux outils d'écriture
+22 09 2020 --- [Icare] Implémenter l’accès à Narration et Scénariopole
+22 09 2020 --- [Icare] Continuer d’implémenter ce qui doit l'être
+23 09 2020 --- [Victor d’Aboville] Finaliser la lecture du roman
+23 09 2020 --- [Victor d’Aboville] Reprendre la lecture pour voir les objectifs
+23 09 2020 --- [Victor d’Aboville] Envoyer les commentaires à Paco
+23 09 2020 --- [SweetTodo] Traiter les imbrications de tâches
+23 09 2020 --- [Icare] Améliorer les outils webmaster
+23 09 2020 --- [Icare] Demander à Hoodoo où il en est
+23 09 2020 --- [Icare] Ajouter le lien vers la description des documents de présentation dans la page d'inscription
+23 09 2020 --- [Icare] Redemander à Marion Sevole ce qu’elle fait
+23 09 2020 --- [Icare] Passer toutes les images en jp2 (jpeg2000) (voir [cette page](https://web.dev/serve-responsive-images/))
+23 09 2020 --- [Icare] Backup total des anciennes données Icare et destruction des tables
+24 09 2020 --- [Icare]  Aller voir sur Google pour signaler qu’il peut revisiter le site
+24 09 2020 --- [Icare] Poursuivre le travail sur les images (cf. le dossier \_dev\_/Image/)
+24 09 2020 --- [Icare] Traitement des css en un seul fichier
+26 09 2020 --- [ICARE] Poursuivre l'implémentation
+26 09 2020 --- [Icare] Script pour contrôler et réparer les données des modules d'apprentissage

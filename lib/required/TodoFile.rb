@@ -98,6 +98,7 @@ class TodoFile
   end
 
   # Pour faire un backup du jour précédent (sauf s'il existe déjà)
+  # TODO Ne plus faire ce backup avec le nouveau système
   def backup
     if File.exists?(veille_path_file)
       notice "Le fichier backup existe déjà, je ne le refais pas." if App.verbose
@@ -139,9 +140,12 @@ class TodoFile
     # On récupère les tâches inaccomplies
     undone_tasks = veille.undone_tasks
     # On ne conserve dans la veille que les tâches accomplies
+    # Note : normalement, elles ont toutes été mises de côté au cours
+    # du parsing du fichier des tâches.
     veille.delete_undone_tasks()
     # On glisse la veille dans la partie achevée
-    acheved_part.add_child(veille)
+    # acheved_part.add_child(veille)
+    # Maintenant on met les tâches de la veille dans l'historique total
     # On retire la veille de la partie aujourd'hui
     today_part.delete_child(veille)
     # On prend le jour suivant (aujourd'hui, en fait)
@@ -155,6 +159,16 @@ class TodoFile
     # Le code complet
     return full_code
   end
+
+
+  # Pour ajouter une tâche faite dans le fichier historique.
+  # Maintenant, on ne les garde plus dans le fichier courant
+  def add_historique(line)
+    line = line[6..-1].strip if line.start_with?('- [x] ')
+    @today_str ||= Time.now.strftime('%d %m %Y --- ')
+    @refhisto  ||= File.open(File.join(APPFOLDER,'historique.txt'),'a')
+    @refhisto.puts("#{@today_str}#{line}")
+  end #/ add_historique
 
   def open
     puts "-> open"
@@ -209,14 +223,17 @@ class TodoFile
         current_part = line
         @future_part = line
       elsif str.include?(balise_start_acheved)
-        line = PartLine.new(str, :acheved)
-        current_part = line
-        @acheved_part = line
+        # On ne fait plus rien puisque cette partie ne doit plus exister
+        # line = PartLine.new(str, :acheved)
+        # current_part = line
+        # @acheved_part = line
       elsif str.include?('### ')
         line = DateLine.new(str)
         current_date = line
         current_part.add_child(line)
-      elsif str.match?(/\- \[[ x]\] /)
+      elsif str.strip.start_with?('- [x] ')
+        add_historique(str.strip)
+      elsif str.match?(/\- \[ \] /)
         line = CbLine.new(str)
         current_cbox = line
         current_date.add_child(line)
@@ -230,6 +247,10 @@ class TodoFile
       @lines << line
     end
     # puts "@lines = #{@lines.inspect}"
+  ensure
+    # On ferme le fichier historique qui a été ouvert pour y mettre
+    # les tâches accomplies
+    @refhisto.close if @refhisto
   end
 
   # En cas de problème, on peut reconstituer un fichier du jour
