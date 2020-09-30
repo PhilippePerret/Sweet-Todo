@@ -7,7 +7,7 @@
 
 class TodoFile
 
-  attr_reader :today_part, :future_part, :acheved_part
+  attr_reader :today_part, :future_part
 
   def initialize
 
@@ -143,9 +143,6 @@ class TodoFile
     # Note : normalement, elles ont toutes été mises de côté au cours
     # du parsing du fichier des tâches.
     veille.delete_undone_tasks()
-    # On glisse la veille dans la partie achevée
-    # acheved_part.add_child(veille)
-    # Maintenant on met les tâches de la veille dans l'historique total
     # On retire la veille de la partie aujourd'hui
     today_part.delete_child(veille)
     # On prend le jour suivant (aujourd'hui, en fait)
@@ -186,13 +183,13 @@ class TodoFile
 
   def reset
     # puts "-> reset"
-    [:children, :init_code, :lines, :today_part, :future_part, :acheved_part].each do |prop|
+    [:children, :init_code, :lines, :today_part, :future_part].each do |prop|
       instance_variable_set("@#{prop}", nil)
     end
   end
 
   def children
-    @children ||= [today_part, future_part, acheved_part]
+    @children ||= [today_part, future_part]
   end
 
   def init_code
@@ -222,11 +219,6 @@ class TodoFile
         line = PartLine.new(str, :future)
         current_part = line
         @future_part = line
-      elsif str.include?(balise_start_acheved)
-        # On ne fait plus rien puisque cette partie ne doit plus exister
-        # line = PartLine.new(str, :acheved)
-        # current_part = line
-        # @acheved_part = line
       elsif str.include?('### ')
         line = DateLine.new(str)
         current_date = line
@@ -290,9 +282,6 @@ class TodoFile
   end
   def balise_start_future
     @balise_start_future ||= '{#future}'
-  end
-  def balise_start_acheved
-    @balise_start_acheved ||= '{#acheved}'
   end
 
   def path
