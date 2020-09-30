@@ -20,9 +20,6 @@ class TodoFile
     # remplacé)
     parse
 
-    # On fait un backup, sauf si le fichier est vide
-    backup
-
     # Dans le cas où le fichier actuel est déjà un fichier pour
     # aujourd'hui
     if today_part.children.first.date == Date.today
@@ -33,12 +30,6 @@ class TodoFile
         puts "<- update"
         return false
       end
-    else
-      # Au cas où ça ne serait pas encore fait, on
-      # produit un backup du fichier courant, qui
-      # sera logiquement un fichier de la veille (mais qui
-      # pourrait être un autre fichier du jour d'aujourd'hui actuel)
-      backup_current_file
     end
     # On actualise le code et on l'enregistre
     File.open(path,'wb') { |f| f.write updated_code }
@@ -77,56 +68,9 @@ class TodoFile
     unless yesNo(question)
       return
     end
-    if get_backup_veille
-      # OK
-       if App.verbose
-         puts "Le fichier de la veille a été remis en fichier courant\npour forcer l'actualisation."
-       end
-      reset
-      # Il faut le reparser
-      parse
-      return true
-    else
-      error "Impossible de trouver un fichier de la veille."
-      error "Je dois renoncer à forcer l'actualisation."
-      return false
-    end
-  end
-
-  def backup_current_file
-    day = today_part.children.first.date
-  end
-
-  # Pour faire un backup du jour précédent (sauf s'il existe déjà)
-  # TODO Ne plus faire ce backup avec le nouveau système
-  def backup
-    if File.exists?(veille_path_file)
-      notice "Le fichier backup existe déjà, je ne le refais pas." if App.verbose
-    elsif File.read(path).force_encoding('utf-8').length > 0
-      FileUtils.copy(path, veille_path_file)
-    else
-      error "Le fichier est vide, je n'en fait pas de backup."
-    end
-  end
-
-  # Pour remettre en fichier des tâches le fichier de la veille
-  def get_backup_veille
-    if File.exists?(veille_path_file)
-      File.unlink(path) if File.exists?(path)
-      FileUtils.copy(veille_path_file, path)
-      notice "Le fichier de la veille a été remis" if App.verbose
-      return true
-    else
-      error "Aucun fichier de la veille n'existe."
-      return false
-    end
-  end
-
-  def veille_path_file
-    @veille_path_file ||= begin
-      prev_day = Date.today - 1
-      path_backup = File.join(App.folder_backups, prev_day.strftime("%Y-%m-%d\.md"))
-    end
+    error "Il n'y a plus de “fichier de la veille”."
+    error "Je dois renoncer à forcer l'actualisation."
+    return false
   end
 
   def updated_code
