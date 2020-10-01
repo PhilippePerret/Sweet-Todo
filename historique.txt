@@ -279,15 +279,21 @@
 27 09 2020 --- [Icare] Poursuivre la commande de check des modules, étapes et documents
 27 09 2020 --- [Icare] Suppression du formulaire d’envoi des docs sur le bureau quand documents envoyés
 27 09 2020 --- [Sweet Todo] Affiner le backup des tâches pour n’avoir qu’un seul fichier contenant toutes les tâches passées (faire un fichier plus simple, avec une ligne pour chaque tâche)
-30 09 2020 --- Régler le Cron
-30 09 2020 --- Corriger l’erreur que j’ai sur Admin::Toolbox
-30 09 2020 --- Page d’aide pour les outils (où les trouver = plan, bureau icarien)
-30 09 2020 --- Ajouter le grand livre des lois aux outils d'écriture
-30 09 2020 --- Ajouter le quai des docs aux outils d'écriture
-30 09 2020 --- Continuer d’implémenter ce qui doit l'être
-30 09 2020 --- Reprendre la lecture pour voir les objectifs
-30 09 2020 --- Envoyer les commentaires à Paco
-30 09 2020 --- [Icare] Mettre le statut de l’étape de Travis2 à 2 (pour tenir compte du fait qu’il a envoyé ses documents)
-30 09 2020 --- [Icare] Module de vérification des documents
-30 09 2020 --- [Icare] Changer la date du prochain paiement de Charlotte
-30 09 2020 --- Finaliser les commentaires sur le roman de Christ Kibamba
+29 09 2020 --- Régler le Cron
+29 09 2020 --- Corriger l’erreur que j’ai sur Admin::Toolbox
+29 09 2020 --- Page d’aide pour les outils (où les trouver = plan, bureau icarien)
+29 09 2020 --- Ajouter le grand livre des lois aux outils d'écriture
+29 09 2020 --- Ajouter le quai des docs aux outils d'écriture
+29 09 2020 --- Continuer d’implémenter ce qui doit l'être
+29 09 2020 --- Reprendre la lecture pour voir les objectifs
+29 09 2020 --- Envoyer les commentaires à Paco
+29 09 2020 --- [Icare] Mettre le statut de l’étape de Travis2 à 2 (pour tenir compte du fait qu’il a envoyé ses documents)
+29 09 2020 --- [Icare] Module de vérification des documents
+29 09 2020 --- [Icare] Changer la date du prochain paiement de Charlotte
+29 09 2020 --- Finaliser les commentaires sur le roman de Christ Kibamba
+29 09 2020 --- [Icare] Finaliser le check des documents
+29 09 2020 --- [Icare] Finaliser le check des étapes
+29 09 2020 --- [Icare] Régler le problème de la boucle infinie sur la connexion.
+30 09 2020 --- [Icare] Finaliser le check des documents
+30 09 2020 --- [Icare] Finaliser le check des étapes
+30 09 2020 --- [Icare] Régler le problème de la boucle infinie sur la connexion.
