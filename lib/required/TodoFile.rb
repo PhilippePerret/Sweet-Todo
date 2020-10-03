@@ -107,7 +107,7 @@ class TodoFile
   def add_historique(line)
     line = line[6..-1].strip if line.start_with?('- [x] ')
     @hier_str ||= (Time.now - 3600*24).strftime('%d %m %Y')
-    @refhisto ||= File.open(File.join(APPFOLDER,'historique.txt'),'a')
+    @refhisto ||= File.open(File.join(APPFOLDER,'_Historique_travail_.txt'),'a')
     @refhisto.puts("#{@hier_str} --- #{line}")
   end #/ add_historique
 
