@@ -27,7 +27,6 @@
 28 05 2020 --- [Icare] Prochain travail de Natacha
 28 05 2020 --- [Icare] Enregistrer le document de Natacha dans sa deuxième étape
 28 05 2020 --- Achever la lecture du roman de Paco
-28 05 2020 --- [Icare] Poursuivre le nouvel atelier
 28 05 2020 --- [Icare] Commenter le premier travail de Natacha (objecti)
 28 05 2020 --- [Icare] Commenter le second travail de Natache (aspect du book)
 28 05 2020 --- [Icare] Répondre à Khajag
@@ -298,22 +297,280 @@
 01 10 2020 --- [Icare]  Watchers administration : mieux répartir quand il y a des noms de document.
 01 10 2020 --- [Icare] Lire et commenter les documents de Khajag
 01 10 2020 --- [Icare] Gestion du CRON correcte (et commande à distance avec la commande `icare`)
-01 10 2020 --- [Icare] Gestion du CRON correcte (et commande à distance avec la commande `icare`)
-01 10 2020 --- [Icare] Ajouter des pages à check dans le check minimal ([fichier de données](/Users/philippeperret/Sites/AlwaysData/Icare_2020/_dev_/CLI/lib/commands/test/data_urls.yaml))
-01 10 2020 --- [Icare] Gestion du CRON correcte (et commande à distance avec la commande `icare`)
-01 10 2020 --- [Icare] Ajouter des pages à check dans le check minimal ([fichier de données](/Users/philippeperret/Sites/AlwaysData/Icare_2020/_dev_/CLI/lib/commands/test/data_urls.yaml))
-01 10 2020 --- [Icare] Gestion du CRON correcte (et commande à distance avec la commande `icare`)
-01 10 2020 --- [Icare] Ajouter des pages à check dans le check minimal ([fichier de données](/Users/philippeperret/Sites/AlwaysData/Icare_2020/_dev_/CLI/lib/commands/test/data_urls.yaml))
-01 10 2020 --- [Icare] Gestion du CRON correcte (et commande à distance avec la commande `icare`)
-01 10 2020 --- [Icare] Ajouter des pages à check dans le check minimal ([fichier de données](/Users/philippeperret/Sites/AlwaysData/Icare_2020/_dev_/CLI/lib/commands/test/data_urls.yaml))
-01 10 2020 --- [Icare] Gestion du CRON correcte (et commande à distance avec la commande `icare`)
-01 10 2020 --- [Icare] Ajouter des pages à check dans le check minimal ([fichier de données](/Users/philippeperret/Sites/AlwaysData/Icare_2020/_dev_/CLI/lib/commands/test/data_urls.yaml))
-01 10 2020 --- [Icare] Gestion du CRON correcte (et commande à distance avec la commande `icare`)
-01 10 2020 --- [Icare] Ajouter des pages à check dans le check minimal ([fichier de données](/Users/philippeperret/Sites/AlwaysData/Icare_2020/_dev_/CLI/lib/commands/test/data_urls.yaml))
-01 10 2020 --- [Icare] Gestion du CRON correcte (et commande à distance avec la commande `icare`)
-01 10 2020 --- [Icare] Ajouter des pages à check dans le check minimal ([fichier de données](/Users/philippeperret/Sites/AlwaysData/Icare_2020/_dev_/CLI/lib/commands/test/data_urls.yaml))
-01 10 2020 --- [Icare] Gestion du CRON correcte (et commande à distance avec la commande `icare`)
 01 10 2020 --- [Icare] Ajouter des pages à check dans le check minimal ([fichier de données](/Users/philippeperret/Sites/AlwaysData/Icare_2020/_dev_/CLI/lib/commands/test/data_urls.yaml))
 02 10 2020 --- [Icare] Gestion du CRON correcte (et commande à distance avec la commande `icare`)
 02 10 2020 --- [Icare] Ajouter des pages à check dans le check minimal ([fichier de données](/Users/philippeperret/Sites/AlwaysData/Icare_2020/_dev_/CLI/lib/commands/test/data_urls.yaml))
 02 10 2O2O --- [Icare] Lire et commenter les documents de Khajag
+02 10 2020 --- [Icare] Pour la réussite de tous les tests actuels
+03 10 2020 --- [Icare] Pour la réussite de tous les tests actuels
+04 10 2020 --- [Icare] Poursuivre la correction des tests
+04 10 2020 --- [Icare] Poursuivre le passage de tous les tests
+04 10 2020 --- [Icare] Lire et commenter les documents de Khajag
+05 10 2020 --- [Icare] Lire et commenter les documents de Khajag
+05 10 2020 --- [Icare] Poursuivre le passage de tous les tests
+07 10 2020 --- [Icare] Lire et commenter les documents de Khajag
+07 10 2020 --- [Icare]  Implémenter la section concours
+08 10 2020 --- [Icare] Travail sur le concours de synopsis
+13 10 2020 --- [Icare] Lire et commenter les documents de Khajag (LE PONT)
+13 10 2020 --- [Icare] Poursuivre la section DB-Per-Fiche (Database)
+14 10 2020 --- [Icare] Lire et commenter les documents de Khajag (LE PONT)
+14 10 2020 --- Répondre à Silvana Curto
+14 10 2020 --- [Icare] Poursuivre la section DB-Per-Fiche (Database)
+15 10 2020 --- [Icare] Finir de commenter les documents de Khajag (LE PONT)
+15 10 2020 --- Répondre à Hélène Grosso à propos des formations
+15 10 2020 --- [Icare] Poursuivre le travail sur le concours
+15 10 2020 --- [Icare] Mettre en place la synchronisation par commande CLI
+16 10 2020 --- [Icare] Télécharger les documents de Hoodoo
+16 10 2020 --- [Icare] Poursuivre le travail sur le concours
+16 10 2020 --- [Icare] Mettre en place la synchronisation par commande CLI
+17 10 2020 --- [Icare] Poursuivre le travail sur le concours
+17 10 2020 --- [Icare] Poursuite préparation concours de synopsis
+18 10 2020 --- [Icare] Poursuite préparation concours de synopsis
+18 10 2020 --- [Icare] Télécharger les documents de Charlotte
+18 10 2020 --- [Icare] Poursuivre l’implémentation du concours de Synopsis
+19 10 2020 --- [Icare] Télécharger les documents de Charlotte
+19 10 2020 --- [Icare] Lire et commenter les documents de Hoodoo
+19 10 2020 --- [Icare] Poursuivre l’implémentation du concours de Synopsis
+19 10 2020 --- [Icare] Concours : enregistrer le fichier envoyé
+20 10 2020 --- [Icare] Poursuivre Lire et commenter les documents de Hoodoo
+20 10 2020 --- [Icare] Poursuivre l’implémentation du concours de Synopsis
+21 10 2020 --- [Icare] Achever les commentaires des documents de Hoodoo
+21 10 2020 --- [Icare] Télécharger les documents de Cyrille
+22 10 2020 --- [Icare] Lire et commenter les documents de Cyrille
+22 10 2020 --- [Icare] Poursuivre évaluation (concours)
+22 10 2020 --- [Icare] Poursuivre mise en forme et contenu de fiche de lecture
+23 10 2020 --- [Icare] Lire et commenter les documents de Cyrille
+23 10 2020 --- [Icare] Poursuivre mise en forme et contenu de fiche de lecture (par rapport aux différentes notes obtenues)
+23 10 2020 --- [Icare] Installation de la partie administration du concours
+24 10 2020 --- [Icare] Correction des documents du concours (pages, règlement, etc.)
+24 10 2020 --- [Icare] Poursuivre la section administration du concours
+24 10 2020 --- [Icare] Sortir toutes les pages pour Marion, en PDF
+25 10 2020 --- [Icare] Annoncer le concours
+25 10 2020 --- [Icare] Poursuivre la section administration du concours (première étape, lancement du concours)
+26 10 2020 --- Écrire à Élie
+26 10 2020 --- Reprendre rendez-vous pour le colis Fnac
+26 10 2020 --- [Icare] Concours : supprimer commande par CLI
+26 10 2020 --- [Icare] Se servir du MailSender du concours.
+27 10 2020 --- Demander un échéancier à l'URSSAF
+27 10 2020 --- Recommander un adaptateur pour smartphone/pied
+27 10 2020 --- [Icare] Lire et commenter les documents de Charlotte
+28 10 2020 --- [Icare] Lire et commenter les documents de Charlotte
+28 10 2020 --- Liker l’annonce du concours sur Appels à texte
+28 10 2020 --- Partager l’annonce du concours depuis Texte à la pelle
+28 10 2020 --- [Icare] Réimplémenter un cronjob qui fonctionne…
+28 10 2020 --- [Icare] Cronjob : implémentation complète du traitement des activités
+28 10 2020 --- [Icare] Voir le bug au niveau des notifications (les documents de Cyrille — ont été envoyés, mais le formulaire est toujours là. Voir s’il se produit la même chose avec Charlotte, ça viendrait d’une mauvaise définition du watcher suivant)
+29 10 2020 --- [Concours Icare] Mettre l’adresse « concours@atelier-icare.net » pour le « to » des messages qui me sont envoyés
+29 10 2020 --- [Concours Icare] Mettre rapidement en place l’envoi de mails de fin de semaine pour le point sur le concours
+29 10 2020 --- [Icare] Cron : traitement des tickets
+29 10 2020 --- [Icare] Poursuivre le développement du cronjob (avec les tests)
+29 10 2020 --- [Icare] Voir le bug au niveau des notifications (les documents de Cyrille — ont été envoyés, mais le formulaire est toujours là. Voir s’il se produit la même chose avec Charlotte, ça viendrait d’une mauvaise définition du watcher suivant)
+29 10 2020 --- [Icare] Implémenter la méthode `db_auto_increment(dbtable)`
+30 10 2020 --- [Concours Icare] Tester l’envoi du fichier de candidature
+30 10 2020 --- [Icare] Implément et tester le cronjob de la purge des dossiers
+30 10 2020 --- [Concours Icare] Implémenter la commande 'icare concours download `<nom fichier>`' (nom fichier est `<concurrent-id>-<annee>.[ext]`)
+30 10 2020 --- [Icare] Implémenter la méthode `db_auto_increment(dbtable)`
+30 10 2020 --- [Concours Icare] Poursuivre le test de l’envoi du fichier de candidature
+30 10 2020 --- [Icare] Envoi du rapport cron une seule fois
+30 10 2020 --- [Icare] Test des préférences pour le concours
+31 10 2020 --- [Concours Icare] Poursuivre le test de l’envoi du fichier de candidature
+31 10 2020 --- [Annonce Concours] Sur FB, mettre un commentaire pour informer que chaque participant recevra une fiche de lecture.
+31 10 2020 --- [Icare] Envoi du rapport cron une seule fois
+31 10 2020 --- [Icare] Test des préférences pour le concours
+01 11 2020 --- [Icare] Poursuivre partie évaluation (ghost fiche)
+01 11 2020 --- [Icare] Généraliser encore l’emploi de MailSender (essayer de voir notamment pour les mailing list administratif)
+02 11 2020 --- [Icare Concours] Implémenter le passage complet à la phase 2
+03 11 2020 --- [Icare] Faire passer Cyrille à l’étape suivante
+03 11 2020 --- [Icare Concours] Implémenter et tester complètement le passage en phase 3 du concours (la page du palmarès est encore à implémenter et tester)
+03 11 2020 --- [Icare] Implémenter et tester l’enregistrement des notifications cron
+03 11 2020 --- [Icare] Cron : feature pour envoyer une notification (mail) à un moment précis (commande `icare cron add`.
+04 11 2020 --- [Icare] Faire des gels fixer pour le test du conccours
+05 11 2020 --- Penser à modifier la fabrication des gels pour mettre de côté et replacer 1) le fichier secret « concours » 2) le dossier data « concours ».
+06 11 2020 --- [Icare] Lire et commenter le scénario de Khajag (finaliser)
+06 11 2020 --- [Icare] Répondre à Khajag (scénario bien reçu + versement)
+06 11 2020 --- [Icare] Lire et commenter le scénario de Khajag
+06 11 2020 --- [Icare] Premiers tests des évaluateurs (et implémentation de leur identification)
+07 11 2020 --- [Icare] Test de la visite d’un évaluateur
+07 11 2020 --- [Icare] Implémentation testée d’un document fichier candidature refusé
+08 11 2020 --- [Icare] Charger les documents de Cyrille
+08 11 2020 --- [Icare Concours] Gestion de la non conformité d’un fichier de candidature (à poursuivre)
+10 11 2020 --- [Icare] Lire et commenter les documents de Cyrille (finaliser)
+10 11 2020 --- [Icare] Ajouter le film de Charpentier au Hall of Fame
+11 11 2020 --- [Icare] Lire et commenter les documents de Khajag (3 synopsis)
+11 11 2020 --- [Icare] Passer Cyrille à l’étape 522
+11 11 2020 --- [Concours Icare] Poursuivre et achever la gestion de la non conformité d’un fichier de candidature
+11 11 2020 --- [Icare] Poursuivre l’implémentation testée de la page de palmarès pour la phase 3.
+11 11 2020 --- [Icare] Implémentation testée d’un document fichier candidature refusé
+11 11 2020 --- [Icare] Faire l’annonce du concours de synopsis (groupe de ceux qui bossent dans le cinéma)
+12 11 2020 --- [Icare] Achever la lecture des 3 synopsis de Khajag
+12 11 2020 --- [Icare] Faire l’annonce du concours de synopsis (groupe de ceux qui bossent dans le cinéma)
+12 11 2020 --- [Icare] Annonce concours. Prise de contact avec "Publier son livre » (publiersonlivre.fr)
+12 11 2020 --- [Icare] Annonce concours. Dépôt sur concoursnouvelles.com
+12 11 2020 --- [Icare] Annonce du concours auprès de contact@enviedecrire.com (www.enviedecrire.com)
+14 11 2020 --- [Icare] Poursuivre les tests sur l'évaluation
+16 11 2020 --- [Icare] Déposer les documents de Cyrille sur le QDD
+16 11 2020 --- [Icare] Déposer les documents de Charlotte sur le QDD
+16 11 2020 --- Répondre à Hélène à propos des formations
+17 11 2020 --- [Icare] Déposer les documents de Cyrille sur le QDD
+17 11 2020 --- [Icare] Déposer les documents de Charlotte sur le QDD
+17 11 2020 --- [Icare] Déposer les documents de TravisDeux sur le QDD
+17 11 2020 --- Répondre à Hélène à propos des formations
+18 11 2020 --- [Icare] Refactorisation testée du tests des mails (TMails)
+18 11 2020 --- [Icare] Continuer à corriger pour faire passer tous les tests du concours
+19 11 2020 --- [PSS] Envoyer PSS-Un amour fou à Hélène (avec notes détaillées)
+19 11 2020 --- [Icare] Un module cron permettant de faire des réparations sur les users
+19 11 2020 --- [Icare] Modifier les préférences de Benoit (Le Menier) pour qu’il ne reçoive plus rien
+19 11 2020 --- [Icare] Poursuivre le module cron permettant de faire des réparations sur la table `users`.
+19 11 2020 --- [Icare] Corriger le bug au niveau de la l’affichage de la liste des icariens (c’est du grand n’importe quoi, faire les méthodes de filtre adéquates)
+20 11 2020 --- [Icare] Modifier les préférences de Benoit (Le Menier) pour qu’il ne reçoive plus rien
+20 11 2020 --- [Icare] Faire fonctionner le cron pour le concours (samedi 11 heures)
+20 11 2020 --- [Icare] Poursuivre le module cron permettant de faire des réparations sur la table `users`.
+20 11 2020 --- [Icare] Corriger le bug au niveau de la l’affichage de la liste des icariens (c’est du grand n’importe quoi, faire les méthodes de filtre adéquates)
+20 11 2020 --- [Icare] Faire passer tous les tests du dossier `features/users`.
+20 11 2020 --- [Icare] S’assurer que la suppression de la méthode `fem` dans le module StringHelpersMethod ne plante pas des utilisations
+20 11 2020 --- [Icare] Corriger l’utilisation de `user` dans le module StringHelpersMethod en supprimant la méthode `fem`
+20 11 2020 --- [Icare] Poursuivre le test de la tentative d’envoi de document par un inactif
+20 11 2020 --- [Icare] Pour le gel real-icare, il faut changer tous les mots de passe
+21 11 2020 --- [Icare] Poursuivre le test de la tentative d’envoi de document par un inactif
+21 11 2020 --- [Icare] Pour le gel real-icare, il faut changer tous les mots de passe
+21 11 2020 --- [Icare concours] Prevenir Gaetan Deves que sa boite mails refuse les mails
+21 11 2020 --- [Icare] Poursuivre le test de la liste des icariens
+21 11 2020 --- [Icare] Liste des icariens : faire des méthodes de classe qui permettre de récupérer précisément tel ou tel sorte d’icarien (par un filtre très simple ou même le nom de la méthode : `actifs`, `inactifs` etc.)
+22 11 2020 --- [Icare concours] Prévenir Gaetan Deves que sa boite mails refuse les mails
+22 11 2020 --- Dossier Roman pour le roman avec Marion
+22 11 2020 --- [Icare] Répondre à Simon
+22 11 2020 --- [Icare] Poursuivre le test de la liste des icariens
+22 11 2020 --- [Icare] Liste des icariens : faire des méthodes de classe qui permettre de récupérer précisément tel ou tel sorte d’icarien (par un filtre très simple ou même le nom de la méthode : `actifs`, `inactifs` etc.)
+23 11 2020 --- [Icare concours] Envoyer les informations pour le concours à « publier un livre »
+23 11 2020 --- Étudier Jekyll pour le site perso et Narration
+24 11 2020 --- [Narration] Poursuivre le passage à Jekyll
+26 11 2020 --- [Narration] Poursuivre le passage à Jekyll
+26 11 2020 --- [Site perso] Poursuivre le passage du site perso à Jekyll
+27 11 2020 --- [Site perso] Poursuivre le passage du site perso à Jekyll
+28 11 2020 --- [Site perso] Poursuivre le passage du site perso à Jekyll
+29 11 2020 --- [Site perso] Poursuivre le passage du site perso à Jekyll
+29 11 2020 --- [Icare] Télécharger le document de Jonathan
+30 11 2020 --- [Site perso] Poursuivre le passage du site perso à Jekyll
+30 11 2020 --- [Icare] Télécharger le document de Jonathan
+01 12 2020 --- [Site perso] Poursuivre le passage du site perso à Jekyll
+01 12 2020 --- Poursuivre ScoreTagger
+01 12 2020 --- [Icare] Demander à Jonathan pourquoi il ne partage pas ses documents
+02 12 2020 --- Poursuivre ScoreTagger
+02 12 2020 --- [PSS] Répondre à Hélène !
+02 12 2020 --- [Icare] Commencer la lecture du Village (ACV95 — Lapipe)
+03 12 2020 --- Poursuivre ScoreTagger
+03 12 2020 --- [PSS] Répondre à Hélène !
+03 12 2020 --- [Icare] Commencer la lecture du Village (ACV95 — Lapipe)
+04 12 2020 --- Poursuivre ScoreTagger
+04 12 2020 --- [Icare] Implémentation de l’outil pour ajouter un document envoyé par mail
+05 12 2020 --- Poursuivre ScoreTagger
+05 12 2020 --- [Icare] LE VILLAGE — Dire à André et Daniel que j’ai bien reçu leur document.
+06 12 2020 --- Poursuivre ScoreTagger
+06 12 2020 --- [Icare] LE VILLAGE — Dire à André et Daniel que j’ai bien reçu leur document.
+07 12 2020 --- Poursuivre ScoreTagger
+07 12 2020 --- [Icare] LE VILLAGE Informer pour dépôt de commentaire, demander à ce que le premier qui charge le commentaire le dispatche aux autres, ou alors ils peuvent le retrouver dans la section « Document » de leur bureau sur le site. Confirmer qu’ils ont bien partagé les identifiants du site.
+07 12 2020 --- [Icare] LE VILLAGE Remerciement Jean-François et préciser qu’il ne reste plus que le document d’Éric Piques
+07 12 2020 --- [Icare] LE VILLAGE Faire l’étape courante pour passer à la suivante (mais attendre tous les documents pour la suivante avant d’ajouter les documents)
+07 12 2020 --- [Icare] LE VILLAGE Renvoyer les commentaires sur LE VILLAGE avec ce que j’ai dit par mail et créer une nouvelle étape avec un travail propre en reprenant le travail de ce mail
+08 12 2020 --- Poursuivre ScoreTagger
+08 12 2020 --- [Icare] LE VILLAGE Rassembler les documents
+08 12 2020 --- [Icare] Commencer la lecture commentée du document de Jonathan
+09 12 2020 --- [Icare] Poursuivre la lecture commentée du document de Jonathan
+09 12 2020 --- Poursuivre ScoreTagger
+10 12 2020 --- Poursuivre ScoreTagger
+10 12 2020 --- [Icare] Poursuivre la lecture commentée du document de Jonathan
+11 12 2020 --- Poursuivre ScoreTagger
+11 12 2020 --- [Icare] Achever la lecture commentée du document de Jonathan
+12 12 2020 --- Poursuivre ScoreTagger
+14 12 2020 --- [Icare] Implémenter le contrôle des documents QDD par le cronjob
+14 12 2020 --- [Icare] LE VILLAGE Commenter
+15 12 2020 --- Poursuivre ScoreTagger
+15 12 2020 --- [Icare] Implémenter le contrôle des documents QDD par le cronjob
+15 12 2020 --- [Icare] LE VILLAGE Commenter
+15 12 2020 --- Commencer la lecture du dossier de David Faure
+15 12 2020 --- [Icare] Commencer à régler le problème des documents QDD manquants
+16 12 2020 --- [Icare] LE VILLAGE Commenter
+16 12 2020 --- Poursuivre ScoreTagger
+16 12 2020 --- Poursuivre la lecture du dossier de David Faure
+16 12 2020 --- [Icare] Commencer à régler le problème des documents QDD manquants
+17 12 2020 --- Poursuivre ScoreTagger
+17 12 2020 --- [Icare] LE VILLAGE Finir de commenter, au moins les documents d’avis individuels
+17 12 2020 --- [Icare] Envoyer les documents pour LE VILLAGE
+17 12 2020 --- [Icare] Poursuivre la réparation des documents QDD
+18 12 2020 --- [Icare] LE VILLAGE Finir de commenter, au moins les documents d’avis individuels
+18 12 2020 --- [Icare] Envoyer les documents pour LE VILLAGE
+18 12 2020 --- Poursuivre ScoreTagger
+18 12 2020 --- [Icare] Poursuivre la réparation des documents QDD
+18 12 2020 --- [Icare] Réimplémenter l’outil pour définir le titre
+18 12 2020 --- [Icare] Passer Dede95 (LE VILLAGE) à l’étape suivante (qui est de réfléchir à mes commentaires et de prendre les décisions qui s'imposent)
+19 12 2020 --- [Icare] Poursuivre la réparation des documents QDD
+19 12 2020 --- [Icare] Réimplémenter l’outil pour définir le titre
+19 12 2020 --- Poursuivre ScoreTagger
+19 12 2020 --- [Icare] Passer Dede95 (LE VILLAGE) à l’étape suivante (qui est de réfléchir à mes commentaires et de prendre les décisions qui s'imposent)
+20 12 2020 --- Poursuivre Score Tagger
+21 12 2020 --- Poursuivre Score Tagger
+22 12 2020 --- [Icare] Poursuivre la réparation des documents QDD
+22 12 2020 --- Poursuivre Score Tagger
+23 12 2020 --- Poursuivre Score Tagger
+24 12 2020 --- [Icare] Poursuivre la réparation des documents QDD
+24 12 2020 --- Poursuivre Score Tagger
+24 12 2020 --- Commentaire sur le dossier de David Faure
+24 12 2020 --- [Icare] Poursuivre et terminer la réparation des documents QDD
+25 12 2020 --- [Icare] Poursuivre et terminer la réparation des documents QDD
+25 12 2020 --- Poursuivre Score Tagger
+26 12 2020 --- Poursuivre Score Tagger
+26 12 2020 --- [Icare] Scénario LE VILLAGE
+28 12 2020 --- Poursuivre Score Tagger
+28 12 2020 --- [Icare] Scénario LE VILLAGE
+28 12 2020 --- Lire le scénario Des embruns de Liberté
+28 12 2020 --- [Icare] Tester le paiement avec virement IBAN
+30 12 2020 --- Poursuivre Score Tagger
+30 12 2020 --- [Icare] Tester le paiement avec virement IBAN
+01 01 2021 --- [Icare] Scénario LE VILLAGE (version Daniel)
+01 01 2021 --- Scénario de Jimmy-Paul Coti
+01 01 2021 --- [Icare] Régler le problème du cron au niveau de la réparation du QDD qui fait que les documents sortent encore mal réglés.
+01 01 2021 --- [Jimmy Paul Coti] Lui envoyer le mail explicatif
+02 01 2021 --- [Jimmy Paul Coti] Lui envoyer le mail explicatif
+03 01 2021 --- [Concours Icare] Poursuivre les tests pour les phases suivantes
+04 01 2021 --- [Concours Icare] Poursuivre les tests pour les phases suivantes
+04 01 2021 --- [PSS] Rassembler toutes les histoires possibles pour faire des tris
+04 01 2021 --- [Icare Concours] Reprendre tous les tests
+05 01 2021 --- [Concours Icare] Poursuivre les tests pour les phases suivantes
+05 01 2021 --- [PSS] Poursuivre le rassemblement de toutes les histoires.
+06 01 2021 --- [Concours Icare] Poursuivre les tests pour les phases suivantes
+06 01 2021 --- [icare] Répondre à Simon (vœux + intrigue)
+07 01 2021 --- [Concours Icare] Poursuivre les tests pour les phases suivantes
+08 01 2021 --- [Concours Icare] Poursuivre les tests pour les phases suivantes
+08 01 2021 --- [Concours Icare] Poursuivre les tests
+09 01 2021 --- Répondre à Varante (plan film)
+09 01 2021 --- [Concours Icare] Poursuivre les tests
+11 01 2021 --- Poursuivre Analyse de Films (app simplifiée)
+11 01 2021 --- Répondre à Hélène (pour stage et signature)
+12 01 2021 --- Poursuivre Analyse de Films (app simplifiée)
+12 01 2021 --- Répondre à Hélène (pour stage et signature)
+12 01 2021 --- Travailler sur Daron
+13 01 2021 --- Remercier les parents pour carte
+13 01 2021 --- Poursuivre Analyse de Films (app simplifiée)
+13 01 2021 --- [Concours Icare] Vérifier le document non chargé
+13 01 2021 --- Répondre à Smail
+13 01 2021 --- Appeler un urologue
+13 01 2021 --- [Icare] Répondre à André Étienne (Résilience)
+13 01 2021 --- [Concours Icare] Répondre à Julien Hervy
+14 01 2021 --- Mettre en vente le SRPS sur Amazon
+14 01 2021 --- Appeler un urologue
+14 01 2021 --- [Icare] Répondre à André Étienne (Résilience)
+14 01 2021 --- [Concours Icare] Répondre à Julien Hervy
+16 01 2021 --- Poursuivre Analyseur de films
+17 01 2021 --- Travailler sur l’analyseur de films
+17 01 2021 --- Mettre en vente le Cloaca Maxima sur Amazon
+18 01 2021 --- Travailler sur Daron
+18 01 2021 --- Poursuivre l’analyseur de film
+19 01 2021 --- Poursuivre l’analyseur de film
+20 01 2021 --- Poursuivre l’analyseur de film
+21 01 2021 --- Poursuivre l’analyseur de film
+21 01 2021 --- Répondre à Cyrille
+21 01 2021 --- Travailler sur l’analyseur de films
+22 01 2021 --- Travailler sur l’analyseur de films
+23 01 2021 --- Poursuivre analyseur de films
+24 01 2021 --- Poursuivre l’analyseur de films
+27 01 2021 --- Poursuivre l’analyseur de film

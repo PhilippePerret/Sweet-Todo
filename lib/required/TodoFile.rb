@@ -169,6 +169,7 @@ class TodoFile
         current_part.add_child(line)
       elsif str.strip.start_with?('- [x] ')
         add_historique(str.strip)
+        next
       elsif str.match?(/\- \[ \] /)
         line = CbLine.new(str)
         current_cbox = line

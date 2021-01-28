@@ -3,7 +3,7 @@ Configuration.define do |config|
 
 # Application pour ouvrir et modifier
 # le fichier contenant la liste des tâche
-config.default_editor = 'Typora'
+config.default_editor = ENV['MARKDOWN_APP']
 
 # Emplacement du fichier de la liste des tâches
 # ------------------------
