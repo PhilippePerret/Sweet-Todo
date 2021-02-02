@@ -7398,3 +7398,323 @@ COMMAND = update
 -> update
 [0;92mLe fichier est déjà le fichier du jour.[0m
 <- update
+
+
+
+---- [2021-01-28 09:30:01 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-01-28 10:30:01 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-01-29 06:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+<- update
+-> open
+Commande jouée : open -a "" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2021-01-29 07:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-01-29 08:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-01-29 09:30:01 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-01-29 10:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-01-29 11:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-01-30 04:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+<- update
+-> open
+Commande jouée : open -a "" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2021-01-30 05:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-01-30 10:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-01-30 11:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-01-30 12:30:01 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-01-31 06:30:05 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+<- update
+-> open
+Commande jouée : open -a "" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2021-01-31 07:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-01-31 09:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-01-31 10:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-01-31 11:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-02-01 06:30:01 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+<- update
+-> open
+Commande jouée : open -a "" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2021-02-01 07:30:01 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-02-01 08:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-02-01 09:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-02-01 10:30:01 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-02-02 05:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+<- update
+-> open
+Commande jouée : open -a "" "/Users/philippeperret/Programmation/Sweet-Todo/__SWTODO__.md"
+<- open
+
+
+
+---- [2021-02-02 06:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-02-02 07:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-02-02 08:30:01 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-02-02 09:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-02-02 10:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-02-02 11:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update
+
+
+
+---- [2021-02-02 12:30:00 +0100]
+Ruby version: 2.6.3
+App.verbose: true
+COMMAND = update
+-> update
+[0;92mLe fichier est déjà le fichier du jour.[0m
+<- update

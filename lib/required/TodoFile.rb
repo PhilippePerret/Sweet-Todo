@@ -113,7 +113,7 @@ class TodoFile
 
   def open
     puts "-> open"
-    cmd = "open -a \"#{CONFIG[:default_editor]}\" \"#{path}\""
+    cmd = "open -a \"#{ENV['MARKDOWN_EDITOR']}\" \"#{path}\""
     puts "Commande jouée : #{cmd}" if App.verbose
     `#{cmd}`
     puts "<- open"
